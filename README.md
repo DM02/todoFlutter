@@ -1,16 +1,14 @@
 # todoflutter
 
-To do list
+To-do list app made in Flutter.
+The list is saved in  phone's memory.
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/4cc42afe-abb1-4251-a2ec-c915b4734bdc)
+![image](https://github.com/user-attachments/assets/a73f3311-37a2-4048-bca3-5be6b490749f)
+![image](https://github.com/user-attachments/assets/d35255b5-0af4-4601-996f-24453b22ce07)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
